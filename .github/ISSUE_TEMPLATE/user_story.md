@@ -4,7 +4,7 @@ about: Describe a user story you'd happly add or see being added to this sample 
 title: ''
 labels:
 - enhancement
-- user story
+- user-story
 assignees: ''
 
 ---
