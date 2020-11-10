@@ -2,9 +2,7 @@
 name: User Story
 about: Describe a user story you'd happly add or see being added to this sample code
 title: ''
-labels:
-- enhancement
-- user-story
+labels: enhancement
 assignees: ''
 
 ---
