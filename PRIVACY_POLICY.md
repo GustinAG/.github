@@ -1,63 +1,28 @@
 # Privacy Policy
 
-Last updated: June 2026
+Last updated: June 5, 2026
 
 This Privacy Policy applies to all mobile applications published by Gustin AG on Google Play.
 
 ## Information Collection and Use
 
-Our applications are designed to collect as little personal information as possible.
-
-Depending on the specific application, the following types of information may be processed:
-
-- Information entered by the user directly into the application
-- Technical information required for application functionality
-- Anonymous usage and diagnostic information provided by platform services
-- Advertising-related information if an application displays advertisements
-
-Not all applications use all of these features.
+We do not collect any personal information or user data.
 
 ## Advertising
 
-Some applications may display advertisements provided by third-party advertising networks such as Google AdMob.
+Some applications may display advertisements provided by Google AdMob.
 
-These services may collect information necessary for providing personalized or non-personalized advertisements in accordance with their own privacy policies.
+Google AdMob may collect information necessary for providing personalized or non-personalized advertisements in accordance with their own privacy policy.
 
-## Analytics
-
-Some applications may use analytics services to improve stability, usability, and overall user experience.
-
-Such services may collect anonymous usage and diagnostic information.
-
-## Data Storage
-
-Application data may be stored:
-
-- locally on the user's device
-- in cloud services used by the application
-- by third-party platform providers where required
-
-The specific storage mechanisms depend on the individual application.
+For more information on how Google uses data, please visit: https://policies.google.com/privacy
 
 ## Third-Party Services
 
-Applications may use third-party services including but not limited to:
+Applications may use the following third-party service:
 
-- Google Play Services
 - Google AdMob
-- Firebase
-- Crash reporting services
-- Analytics services
 
-These providers may process data according to their own privacy policies.
-
-## Children's Privacy
-
-Our applications are not specifically directed at children under the age of 13 unless explicitly stated in the application's store listing.
-
-## Security
-
-We take reasonable measures to protect information processed by our applications. However, no method of electronic storage or transmission can be guaranteed to be completely secure.
+This provider may process data according to their own privacy policies.
 
 ## Changes to This Privacy Policy
 
